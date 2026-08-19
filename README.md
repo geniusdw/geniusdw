@@ -1,33 +1,4 @@
-<div align="center">
-
-<!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Toshit+Warke;System+Design+Lead+%7C+GPU+Computing+Engineer;Building+Low-Latency+%26+Real-Time+Systems" alt="Typing SVG" />
-
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/GPU%20%2F%20HPC-Engineer-00D9FF?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Robotics-System%20Design%20Lead-orange?style=for-the-badge&logo=roboflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Applied%20AI-Engineer-purple?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-<p>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://codeforces.com/profile/your-handle">
-    <img src="https://img.shields.io/badge/Codeforces-1289-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
-<br/>
+<div align="center"> <!-- Animated typing header --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=90&lines=Toshit+here+!;GPU+Programmer+and+Robotics;Building+Low-Latency+Systems" alt="Typing SVG" /> <br/> <p> <img src="https://img.shields.io/badge/GPU%20%2F%20HPC-Engineer-00D9FF?style=for-the-badge&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Robotics-System%20Design%20Lead-orange?style=for-the-badge&logo=roboflow&logoColor=white" /> <img src="https://img.shields.io/badge/Applied%20AI-Engineer-purple?style=for-the-badge&logo=openai&logoColor=white" /> </p> <p> <a href="https://linkedin.com/in/your-linkedin"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://codeforces.com/profile/your-handle"> <img src="https://img.shields.io/badge/Codeforces-1289-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /> </a> </p> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" /> </div> <br/>
 
 ## About Me
 

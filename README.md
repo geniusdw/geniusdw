@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Toshit+Warke+%F0%9F%91%8B;System+Design+Lead+%7C+GPU+Computing+Engineer;Building+Low-Latency+%26+Real-Time+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Toshit+Warke;System+Design+Lead+%7C+GPU+Computing+Engineer;Building+Low-Latency+%26+Real-Time+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -29,7 +29,7 @@
 
 <br/>
 
-## ⚡ About Me
+## About Me
 
 Building **low-latency pipelines**, **real-time autonomous systems**, and **parallel GPU kernels**. I sit at the intersection of high-performance computing and robotics — designing systems that need to be both mathematically correct and fast enough to run in the real world.
 
@@ -42,25 +42,25 @@ currently:   Designing parallel memory-optimized pipelines for edge inference
 
 <br/>
 
-## 🚀 What I Do
+## What I Do
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🎮 GPU Acceleration
+### GPU Acceleration
 Custom CUDA/OpenCL kernels, parallel memory optimizations, and real-time cryptography & inference pipelines.
 
 </td>
 <td width="33%" valign="top">
 
-### 🤖 Robotics & Autonomy
+### Robotics & Autonomy
 System design, sensor fusion (IMU + Visual Odometry), Pixhawk/MAVLink integration, and CV in GPS-denied environments.
 
 </td>
 <td width="33%" valign="top">
 
-### 🧠 Applied AI
+### Applied AI
 Architecting LLM agents, RAG retrieval pipelines, and accelerating deep learning inference engines.
 
 </td>
@@ -69,22 +69,22 @@ Architecting LLM agents, RAG retrieval pipelines, and accelerating deep learning
 
 <br/>
 
-## 🏆 Key Achievements
+## Key Achievements
 
 <div align="center">
 
 | Achievement | Detail |
 | :---: | :--- |
-| 🥇 **AIR 1 — ISRO IRoC-U 2025** | National winners — built an autonomous CV & state-estimation navigation pipeline |
-| 🎯 **AIR 9 — Robocon India 2026** | System Design Lead @ PICT Robotics — CAD mechanisms scoring 98/100 |
-| 🎯 **AIR 16 — Robocon India 2025** | System Design Lead @ PICT Robotics |
-| 🎓 **CGPA 9.0/10** | E&TC Undergraduate, PICT Pune |
+| **AIR 1 — ISRO IRoC-U 2025** | National winners — built an autonomous CV & state-estimation navigation pipeline |
+| **AIR 9 — Robocon India 2026** | System Design Lead @ PICT Robotics — CAD mechanisms scoring 98/100 |
+| **AIR 16 — Robocon India 2025** | System Design Lead @ PICT Robotics |
+| **CGPA 9.0/10** | E&TC Undergraduate, PICT Pune |
 
 </div>
 
 <br/>
 
-## 🛠️ Tech Stack & Tooling
+## Tech Stack & Tooling
 
 <div align="center">
 
@@ -127,13 +127,13 @@ Architecting LLM agents, RAG retrieval pipelines, and accelerating deep learning
 
 <br/>
 
-## 🔬 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧮 RISC-V AI Coprocessor Pipeline Simulator
+### RISC-V AI Coprocessor Pipeline Simulator
 A 5-stage RISC-V pipeline simulator (IF/ID/EX/MEM/WB) written in C++, extended with a custom `0x7B` opcode routed to a simulated MAC array — modeling how an AI coprocessor would do matrix math natively inside the pipeline. Compiled to WebAssembly via Emscripten, with a JS/Canvas frontend that animates data flowing between pipeline stages in real time.
 
 `C++` `WebAssembly` `Computer Architecture` `Emscripten`
@@ -141,7 +141,7 @@ A 5-stage RISC-V pipeline simulator (IF/ID/EX/MEM/WB) written in C++, extended w
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Autonomous Navigation Pipeline — ISRO IRoC-U 2025
+### Autonomous Navigation Pipeline — ISRO IRoC-U 2025
 State-estimation and computer-vision navigation stack for GPS-denied autonomous rover operation, built as part of the AIR 1 winning entry at ISRO's IRoC-U 2025 challenge.
 
 `Computer Vision` `Sensor Fusion` `State Estimation` `Robotics`
@@ -152,7 +152,7 @@ State-estimation and computer-vision navigation stack for GPS-denied autonomous 
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -167,7 +167,7 @@ State-estimation and computer-vision navigation stack for GPS-denied autonomous 
 
 <div align="center">
 
-### 📫 Let's Connect
+### Let's Connect
 
 *Always open to conversations about GPU computing, robotics, and real-time systems.*
 

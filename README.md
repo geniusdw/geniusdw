@@ -134,7 +134,7 @@ Architecting LLM agents, RAG retrieval pipelines, and accelerating deep learning
 *Always open to conversations about GPU computing, robotics, and real-time systems.*
 
 <a href="https://linkedin.com/in/toshitwarke"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="warke.toshit10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:warke.toshit10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://codeforces.com/profile/tensai_cross"><img src="https://img.shields.io/badge/Codeforces-1289-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 
 </div>

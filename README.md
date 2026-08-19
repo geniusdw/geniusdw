@@ -127,52 +127,14 @@ Architecting LLM agents, RAG retrieval pipelines, and accelerating deep learning
 
 <br/>
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### RISC-V AI Coprocessor Pipeline Simulator
-A 5-stage RISC-V pipeline simulator (IF/ID/EX/MEM/WB) written in C++, extended with a custom `0x7B` opcode routed to a simulated MAC array — modeling how an AI coprocessor would do matrix math natively inside the pipeline. Compiled to WebAssembly via Emscripten, with a JS/Canvas frontend that animates data flowing between pipeline stages in real time.
-
-`C++` `WebAssembly` `Computer Architecture` `Emscripten`
-
-</td>
-<td width="50%" valign="top">
-
-### Autonomous Navigation Pipeline — ISRO IRoC-U 2025
-State-estimation and computer-vision navigation stack for GPS-denied autonomous rover operation, built as part of the AIR 1 winning entry at ISRO's IRoC-U 2025 challenge.
-
-`Computer Vision` `Sensor Fusion` `State Estimation` `Robotics`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
-<br/>
-
 <div align="center">
 
 ### Let's Connect
 
 *Always open to conversations about GPU computing, robotics, and real-time systems.*
 
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://codeforces.com/profile/your-handle"><img src="https://img.shields.io/badge/Codeforces-1289-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://linkedin.com/in/toshitwarke"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="warke.toshit10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/tensai_cross"><img src="https://img.shields.io/badge/Codeforces-1289-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 
 </div>
